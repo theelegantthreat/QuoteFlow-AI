@@ -1,5 +1,7 @@
 # QuoteFlow-AI
 
+[![License](https://img.shields.io/github/license/theelegantthreat/QuoteFlow-AI)](https://github.com/theelegantthreat/QuoteFlow-AI/blob/main/LICENSE)
+
 QuoteFlow-AI helps generate, manage, and format quotes using AI-assisted workflows. It is designed to make collecting, curating, and reusing quotations simple and programmatic.
 
 ## Features
